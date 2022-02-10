@@ -8,7 +8,7 @@ Something is missing? Contact me via twitter [@vonlooten](https://twitter.com/vo
 
 ## Information
 
-- [koinos.io (official website)](https://koinos.io)
+- [Koinos.io (official website)](https://koinos.io)
 - [Koinosnetwork (official twitter)](https://twitter.com/koinosnetwork)
 - [Koinos (official youtube)](https://www.youtube.com/c/KoinosBlockchain)
 - [Koinpress Podcast & Newsletter](https://thekoinpress.com)
