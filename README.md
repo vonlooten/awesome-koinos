@@ -20,8 +20,11 @@ Something is missing? Contact me via twitter [@vonlooten](https://twitter.com/vo
 - [github koinos organization (official)](https://github.com/koinos)
 - [koilib](https://github.com/joticajulian/koilib)
 - [kondor wallet](https://github.com/joticajulian/kondor)
-- [as-cdt](https://github.com/roaminroe/koinos-cdt-as)
-- [as-cdt examples](https://github.com/roaminroe/koinos-cdt-as-examples)
+- [koinos as sdk](https://github.com/roaminroe/koinos-as-sdk)
+- [koinos as sdk examples](https://github.com/roaminroe/koinos-as-sdk-examples)
+- [koinos c++ sdk](https://github.com/koinos/koinos-sdk-cpp)
+- [koinos c++ sdk examples](https://github.com/koinos/koinos-contract-examples)
+
 ## Community
 - [discord (official)](https://discord.com/invite/GErGNsu)
 - [telegram (official)](https://t.co/jq3R1y41tQ)
