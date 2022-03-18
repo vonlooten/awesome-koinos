@@ -6,14 +6,11 @@ A list that contains all relevant links about the koinos blockchain and it's ent
 
 Something is missing? Contact me via twitter [@vonlooten](https://twitter.com/vonlooten) or create a pull request.
 
-## Information
+## Information (official)
 
 - [Koinos.io (official website)](https://koinos.io)
 - [Koinosnetwork (official twitter)](https://twitter.com/koinosnetwork)
 - [Koinos (official youtube)](https://www.youtube.com/c/KoinosBlockchain)
-- [Koinpress Podcast & Newsletter](https://thekoinpress.com)
-- [Koinosforum](https://koinosforum.com)
-
 
 ## Development
 - [docs.koinos.io (official)](https://docs.koinos.io)
@@ -26,6 +23,8 @@ Something is missing? Contact me via twitter [@vonlooten](https://twitter.com/vo
 - [koinos c++ sdk examples](https://github.com/koinos/koinos-contract-examples)
 
 ## Community
+- [Koinpress Podcast & Newsletter](https://thekoinpress.com)
+- [Koinosforum](https://koinosforum.com)
 - [discord (official)](https://discord.com/invite/GErGNsu)
 - [telegram (official)](https://t.co/jq3R1y41tQ)
 - [telegram koinosarmy](https://t.me/koinosunofficialpricechat)
