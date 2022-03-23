@@ -12,6 +12,13 @@ Something is missing? Contact me via twitter [@vonlooten](https://twitter.com/vo
 - [Koinosnetwork (official twitter)](https://twitter.com/koinosnetwork)
 - [Koinos (official youtube)](https://www.youtube.com/c/KoinosBlockchain)
 
+## Community
+- [Koinpress Podcast & Newsletter](https://thekoinpress.com)
+- [Koinosforum](https://koinosforum.com)
+- [discord (official)](https://discord.com/invite/GErGNsu)
+- [telegram (official)](https://t.co/jq3R1y41tQ)
+- [telegram koinosarmy](https://t.me/koinosunofficialpricechat)
+
 ## Development
 - [docs.koinos.io (official)](https://docs.koinos.io)
 - [github koinos organization (official)](https://github.com/koinos)
@@ -21,11 +28,7 @@ Something is missing? Contact me via twitter [@vonlooten](https://twitter.com/vo
 - [koinos as sdk examples](https://github.com/roaminroe/koinos-as-sdk-examples)
 - [koinos c++ sdk](https://github.com/koinos/koinos-sdk-cpp)
 - [koinos c++ sdk examples](https://github.com/koinos/koinos-contract-examples)
+- [koinos mock vm](https://github.com/roaminroe/koinos-mock-vm)
+- [local koinos](https://github.com/roaminroe/local-koinos)
 
-## Community
-- [Koinpress Podcast & Newsletter](https://thekoinpress.com)
-- [Koinosforum](https://koinosforum.com)
-- [discord (official)](https://discord.com/invite/GErGNsu)
-- [telegram (official)](https://t.co/jq3R1y41tQ)
-- [telegram koinosarmy](https://t.me/koinosunofficialpricechat)
 
