@@ -30,5 +30,6 @@ Something is missing? Contact me via twitter [@vonlooten](https://twitter.com/vo
 - [koinos c++ sdk examples](https://github.com/koinos/koinos-contract-examples)
 - [koinos mock vm](https://github.com/roaminroe/koinos-mock-vm)
 - [local koinos](https://github.com/roaminroe/local-koinos)
+- [koiner api (graphql api)](https://github.com/koiner-dao/koiner-api)
 
 
