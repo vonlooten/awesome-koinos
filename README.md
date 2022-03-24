@@ -11,6 +11,7 @@ Something is missing? Contact me [@vonlooten](https://twitter.com/vonlooten) or 
 - [Koinos.io (official website)](https://koinos.io)
 - [Koinosnetwork (official twitter)](https://twitter.com/koinosnetwork)
 - [Koinos (official youtube)](https://www.youtube.com/c/KoinosBlockchain)
+- [Koinos Group (official youtube)](https://www.youtube.com/channel/UCuyHYHB9y8LPqYNTtSLYoKQ)
 
 ## Community
 - [Koinpress Podcast & Newsletter](https://thekoinpress.com)
