@@ -4,7 +4,7 @@
 
 A list that contains all relevant links about the koinos blockchain and it's entire ecosystem.
 
-Something is missing? Contact me via twitter [@vonlooten](https://twitter.com/vonlooten) or create a pull request.
+Something is missing? Contact me [@vonlooten](https://twitter.com/vonlooten) or create a pull request.
 
 ## Information (official)
 
